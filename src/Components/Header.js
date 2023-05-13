@@ -34,7 +34,7 @@ const Header = () => {
           data-actual-width={390}
           data-actual-height={80}
         />
-        <h1 style={{color:"df4759"}}>AURAK</h1>
+        <h1 style={{color:"#df4759"}}>AURAK</h1>
 
         <p>
         <a href='' style={{color: "black"}}><LanguageIcon /></a>
